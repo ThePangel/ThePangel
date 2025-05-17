@@ -10,7 +10,8 @@ My name is Ángel, I'm 17 I love to code and play around with computers and elec
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThePangel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePangel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePangel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.hackclub.dev/api/wakatime?username=1698&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThePangel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
