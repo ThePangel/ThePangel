@@ -1,28 +1,13 @@
-# 💫 About Me:
-My name is Ángel, I'm 17 I love to code and play around with computers and electronics<br>I'm from Spain 🇪🇸 <br>
+# About Me:
+Hey there! I'm Ángel "ThePangel" Fuentes Fernández, a 17-year-old who loves coding, electronics, and building creative projects.
+I've worked on mini satellites, off-grid communications, software tools, Android apps, and websites. I enjoy tackling challenges and learning new technologies.
+In my free time, I experiment with microcontrollers, HAM radio, and other projects. I love learning about interesting things :p I also really love aviation, airsoft and military stuff, videogames and anime and the all glorius Gundam franchise
 
+## Contact
+-  Email: contact@thepangel.social
+-  Discord: thepangel
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ThePangel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ThePangel_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThePangel) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThePangel&theme=dark&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePangel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.hackclub.dev/api/wakatime?username=1698&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThePangel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThePangel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ThePangel&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
