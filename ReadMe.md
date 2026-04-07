@@ -1,5 +1,5 @@
 # About Me:
-Hey there! I'm Ángel "ThePangel" Fuentes Fernández, a 17-year-old who loves coding, electronics, and building creative projects.
+Hey there! I'm Ángel "ThePangel" Fuentes Fernández, a 18-year-old who loves coding, electronics, and building creative projects.
 I've worked on mini satellites, off-grid communications, software tools, Android apps, and websites. I enjoy tackling challenges and learning new technologies.
 In my free time, I experiment with microcontrollers, HAM radio, and other projects. I love learning about interesting things :p I also really love aviation, airsoft and military stuff, videogames and anime and the all glorius Gundam franchise
 
