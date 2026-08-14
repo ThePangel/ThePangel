@@ -4,7 +4,7 @@ I've worked on mini satellites, off-grid communications, software tools, Android
 In my free time, I experiment with microcontrollers, HAM radio, and other projects. I love learning about interesting things :p I also really love aviation, airsoft and military stuff, videogames and anime and the all glorius Gundam franchise
 
 ## Contact
--  Email: contact@thepangel.social
+-  Email: contact@thepangel.net
 -  Discord: thepangel
 
 ## Socials:
